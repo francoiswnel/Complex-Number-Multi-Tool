@@ -1,6 +1,6 @@
 # Complex Number Multi-Tool
 
-The Complex Number Multi-Tool is a program for the HP 35S calculator which combine a few missing functions into one label.
+The Complex Number Multi-Tool is a program for the HP 35S calculator which combines a few missing functions into one label.
 
 # Features
 
